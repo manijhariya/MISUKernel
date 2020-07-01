@@ -98,6 +98,3 @@ void WS_onAssert(char const *module, int loc) {
     (void)loc;    /* avoid the "unused parameter" compiler warning */
     NVIC_SystemReset();
 }
-void Q_onAssert(char const *module,int loc){
-  (void)module;
-}
