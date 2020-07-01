@@ -18,8 +18,11 @@ Luck to you for making your own Kernel!!!..
 
 
 ### Direcotries strcture
+  
   ** include        (source header file for all functions)
+  
   ** src            (source code file for all program)
+  
   ** include/wisu.h (this file can be included to run all the functions of RTOS)
 
 a work in progress by Mani
