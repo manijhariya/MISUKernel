@@ -1,7 +1,7 @@
-#A RTOS kernel with many features
+# A RTOS kernel with many features
 A fully developed kernel for RTOS
 
-#HOW ??
+# HOW ??
 The goal is to develope a fully functional RTOS kernel which is featured as most
 RTOS features such as Mutex and Semaphores which are type of inter-therad communication.
 This RTOSKernel is efficeint as a FreeRTOS Kernel.
